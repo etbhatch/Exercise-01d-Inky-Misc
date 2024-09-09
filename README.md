@@ -1,5 +1,6 @@
 # Exercise-01d-Inky-Misc
 
-# Your Name
+# Ethan Hatchett
 
-# Your Github username
+# Your Github username:
+etbhatch
