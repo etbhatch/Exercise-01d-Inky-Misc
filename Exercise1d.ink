@@ -146,7 +146,7 @@ your tranquility is at {tranquility}
 
 ==lay_sand==
 You lay there in the sand, staring up into the night sky. The world feels so vast, almost like it never ends. You consider your life, your mother's homemade cooking and your father's overly positive attitude. You've always wondered what was at the end of the sky, and you think that maybe that is what you want to do when you grow up. Search the vast sea of stars for yourself.
-* [Head Home] -> dark_cave
+* [Head Home] -> deep_cave
 * [Stay] -> stay_sand
 
 ==stay_sand==
